@@ -74,7 +74,6 @@ For other question sets, replace `01` with the relevant set number (`02`–`10`)
 ## References
 
 - *ICT-4202: Artificial Intelligence and Machine Learning Laboratory Manual*, Prof. Dr. Md. Zahidul Islam, Department of ICT, Islamic University.
-- ICT-4202 Final Laboratory Examination question list (Sets 1–10).
 - [AI_and_ML_Laboratory](https://github.com/sazidshahjada/AI_and_ML_Laboratory) — supplementary example code reference.
 - [AI-ML](https://github.com/md-julfikar/AI-ML) — supplementary example code reference.
 
