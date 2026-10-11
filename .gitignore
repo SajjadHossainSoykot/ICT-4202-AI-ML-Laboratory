@@ -1,0 +1,11 @@
+# Jupyter and Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+.idea/
+.vscode/
+# Local WEKA output/screenshots may be added intentionally as evidence

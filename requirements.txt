@@ -1,0 +1,8 @@
+# Run: python -m pip install -r requirements.txt
+jupyterlab>=4.0
+ipykernel>=6.0
+numpy>=1.24
+pandas>=1.5
+scipy>=1.10
+matplotlib>=3.6
+scikit-learn>=1.2
