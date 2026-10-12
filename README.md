@@ -28,6 +28,7 @@ This repository contains solutions and study notebooks for the **10 final labora
 ```text
 ICT-4202-AI-ML-Laboratory/
 ├── README.md
+├── All_Sets_Solutions.ipynb       # Combined master notebook (Sets 01–10; PDF export ready)
 ├── requirements.txt
 ├── Set_01/
 │   ├── Set_01_Solutions.ipynb
@@ -53,7 +54,9 @@ Install Python 3.10+ and the required packages:
 python -m pip install -r requirements.txt
 ```
 
-**Notebook:** Open `Set_01/Set_01_Solutions.ipynb` in JupyterLab, Jupyter Notebook, Google Colab, or VS Code and run the code cells in order. The notebook also contains theory, equations, and short viva answers for Q4.
+**Notebooks:**
+- **Combined Master Notebook:** Open [`All_Sets_Solutions.ipynb`](All_Sets_Solutions.ipynb) in JupyterLab, VS Code, or Colab for the complete unified solutions across all 10 sets (pre-rendered figures and outputs, formatted for reading and direct PDF export).
+- **Per-Set Notebooks:** Open any `Set_XX/Set_XX_Solutions.ipynb` to work with an individual set.
 
 **Python script:** Run any practical question individually from the repository root:
 
